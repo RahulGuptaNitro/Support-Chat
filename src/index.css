@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div::-webkit-scrollbar{
+  display: none;
+}
+
+:root {
+  --my_yellow: rgb(247,207,71);
+}
